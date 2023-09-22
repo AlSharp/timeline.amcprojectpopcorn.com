@@ -53,4 +53,4 @@ jobs:
             docker pull ghcr.io/alsharp/amcprojectpopcorntimeline.blockberrypi.com/amcprojectpopcorntimeline:latest
             docker stop amcprojectpopcorntimeline
             docker system prune -f
-            docker run --restart always --name amcprojectpopcorntimeline -dit -p 5200:5200 ghcr.io/alsharp/amcprojectpopcorntimeline.blockberrypi.com/amcprojectpopcorntimeline:latest
+            docker run --restart always --name amcprojectpopcorntimeline -dit -p 5481:5481 ghcr.io/alsharp/amcprojectpopcorntimeline.blockberrypi.com/amcprojectpopcorntimeline:latest
