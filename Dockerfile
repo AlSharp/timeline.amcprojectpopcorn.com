@@ -31,11 +31,18 @@ RUN adduser -S nextjs -u 1001
 # You only need to copy next.config.js if you are NOT using the default configuration. 
 # Copy all necessary files used by nex.config as well otherwise the build will fail.
 COPY --from=builder /app/next.config.js ./next.config.js
+COPY --from=builder /app/middleware.js ./middleware.js
+COPY --from=builder /app/i18n-config.js ./i18n-config.js
 COPY --from=builder /app/public ./public
 COPY --from=builder --chown=nextjs:nodejs /app/.next ./.next
 COPY --from=builder /app/node_modules ./node_modules
 COPY --from=builder /app/package.json ./package.json
 COPY --from=builder /app/app ./app
+COPY --from=builder /app/components ./components
+COPY --from=builder /app/config ./config
+COPY --from=builder /app/content ./content
+COPY --from=builder /app/utils ./utils
+COPY --from=builder /app/libs ./libs
 
 USER nextjs
 
