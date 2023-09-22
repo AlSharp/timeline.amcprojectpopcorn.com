@@ -22,7 +22,7 @@ export const generateMetadata = async ({ params }) => {
       description: 'The entire story of retail investors who were robbed by CEO of AMC',
       url: 'https://amcprojectpopcorntimeline.blockberrypi.com',
       siteName: 'AMC Project Popcorn',
-      images: 'https://img.youtube.com/vi/RoUhtzRe7rs/0.jpg',
+      images: 'https://s3fkf-public.s3.us-east-2.amazonaws.com/images/go_apes.png',
       locale: lang,
       type: 'website'
     },
@@ -30,7 +30,7 @@ export const generateMetadata = async ({ params }) => {
       card: 'summary_large_image',
       title: 'AMC Project Popcorn Timeline',
       description: 'The entire story of retail investors who were robbed by CEO of AMC',
-      images: ['https://img.youtube.com/vi/RoUhtzRe7rs/0.jpg']
+      images: ['https://s3fkf-public.s3.us-east-2.amazonaws.com/images/go_apes.png']
     }
   }
 }
@@ -38,7 +38,9 @@ export const generateMetadata = async ({ params }) => {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={classNames(inter.className)}>{children}</body>
+      <body className={classNames(inter.className)}>
+        {children}
+      </body>
     </html>
   )
 }
