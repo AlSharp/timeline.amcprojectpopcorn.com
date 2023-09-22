@@ -33,7 +33,6 @@ RUN adduser -S nextjs -u 1001
 COPY --from=builder /app/next.config.js ./next.config.js
 COPY --from=builder /app/middleware.js ./middleware.js
 COPY --from=builder /app/i18n-config.js ./i18n-config.js
-COPY --from=builder /app/public ./public
 COPY --from=builder --chown=nextjs:nodejs /app/.next ./.next
 COPY --from=builder /app/node_modules ./node_modules
 COPY --from=builder /app/package.json ./package.json
