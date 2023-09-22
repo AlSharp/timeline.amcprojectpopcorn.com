@@ -9,7 +9,7 @@ export const generateMetadata = async ({ params }) => {
   return {
     title: 'AMC Project Popcorn',
     description: 'AMC Project Popcorn',
-    metadataBase: 'https://amcprojectpopcorntimeline.blockberry.com'
+    metadataBase: 'https://amcprojectpopcorntimeline.blockberrypi.com'
   }
 }
 

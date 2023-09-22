@@ -40,7 +40,7 @@ export const generateMetadata = async ({ params }) => {
       address: false,
       telephone: false,
     },
-    metadataBase: new URL('https://amcprojectpopcorntimeline.blockberry.com'),
+    metadataBase: new URL('https://amcprojectpopcorntimeline.blockberrypi.com'),
     openGraph: {
       title: event.frontmatter.title,
       description: event.frontmatter.description,
