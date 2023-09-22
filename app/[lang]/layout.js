@@ -7,9 +7,31 @@ const inter = Inter({ subsets: ['latin'] })
 export const generateMetadata = async ({ params }) => {
   const { lang } = params;
   return {
-    title: 'AMC Project Popcorn',
-    description: 'AMC Project Popcorn',
-    metadataBase: 'https://amcprojectpopcorntimeline.blockberrypi.com'
+    title: 'AMC Project Popcorn Timeline',
+    description: 'The entire story of retail investors who were robbed by CEO of AMC',
+    metadataBase: 'https://amcprojectpopcorntimeline.blockberrypi.com',
+    formatDetection: {
+      email: false,
+      address: false,
+      telephone: false,
+    },
+    authors: [{ name: 'AMC Project Popcorn' }],
+    metadataBase: new URL('https://amcprojectpopcorntimeline.blockberrypi.com'),
+    openGraph: {
+      title: 'AMC Project Popcorn Timeline',
+      description: 'The entire story of retail investors who were robbed by CEO of AMC',
+      url: 'https://amcprojectpopcorntimeline.blockberrypi.com',
+      siteName: 'AMC Project Popcorn',
+      images: 'https://img.youtube.com/vi/RoUhtzRe7rs/0.jpg',
+      locale: lang,
+      type: 'website'
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: 'AMC Project Popcorn Timeline',
+      description: 'The entire story of retail investors who were robbed by CEO of AMC',
+      images: ['https://img.youtube.com/vi/RoUhtzRe7rs/0.jpg']
+    }
   }
 }
 

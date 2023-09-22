@@ -30,17 +30,10 @@ export const generateMetadata = async ({ params }) => {
   return {
     title: {
       default: 'AMC Project Popcorn',
-      template: `AMC Project Popcorn | ${event.frontmatter.title}`,
+      template: `${event.frontmatter.title} | AMC Project Popcorn`,
       title: event.frontmatter.title
     },
     description: event.frontmatter.description,
-    authors: [{ name: 'AMC Project Popcorn' }],
-    formatDetection: {
-      email: false,
-      address: false,
-      telephone: false,
-    },
-    metadataBase: new URL('https://amcprojectpopcorntimeline.blockberrypi.com'),
     openGraph: {
       title: event.frontmatter.title,
       description: event.frontmatter.description,

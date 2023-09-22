@@ -3,7 +3,7 @@
 import { useRouter } from 'next/navigation';
 import { Chrono } from "react-chrono-extra";
 
-export default function TimeLine({ events }) {
+const Timeline = ({ events }) => {
 
   const router = useRouter();
 
@@ -22,3 +22,5 @@ export default function TimeLine({ events }) {
     hideControls
   />
 }
+
+export default Timeline;
