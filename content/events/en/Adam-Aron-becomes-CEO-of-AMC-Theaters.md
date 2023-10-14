@@ -1,7 +1,7 @@
 ---
 title: Adam Aron becomes CEO of AMC Theaters
 description: Aron, 61, joins AMC with more than 20 years of experience as a CEO, and more than 35 years of consumer-engagement experience at some of the nation's leading hospitality and leisure companies.
-media: "https://mms.businesswire.com/media/20151215005330/en/500770/5/Adam_photo_highres.jpg"
+media: "https://i.ibb.co/8z1dBFj/Adam-Aron-becomes-CEO-of-AMC-Theaters-main.jpg"
 mediaType: "image"
 date: "12/15/2015"
 shortText: Aron, 61, joins AMC with more than 20 years of experience as a CEO, and more than 35 years of consumer-engagement experience at some of the nation's leading hospitality and leisure companies. He replaces Craig Ramsey, who has served as Interim CEO since August 2015, following the resignation of Gerry Lopez. Ramsey will remain AMC's Chief Financial Officer, and will report directly to Aron.
