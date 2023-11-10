@@ -85,7 +85,7 @@ export default function Event({event, ...params}) {
                 {/* Twitter */}
                 <li>
                   <a 
-                    href={`https://twitter.com/intent/tweet?text=${title}&url=${pageUrl}`}
+                    href={`https://twitter.com/intent/tweet?text=🚨AMC APE Post🚀 - ${title}&url=${pageUrl}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center w-10 h-10 transition duration-300 ease-in-out bg-transparent border rounded-full border-gray-300/70 sm:w-12 sm:h-12 group"

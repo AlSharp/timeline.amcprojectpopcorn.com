@@ -7,14 +7,9 @@ date: "12/15/2015"
 shortText: Aron, 61, a Senior Operating Partner of Apollo Management L.P. from 2006-2015, joins AMC as a CEO, following the resignation of Gerry Lopez. Ramsey will remain AMC's Chief Financial Officer, and will report directly to Aron. Apollo previously was part of an investor group which owned the then privately-held AMC Theatres. From 2006 onwards, Aron also led World Leisure Partners, Inc., a personal consultancy he founded.
 category: ""
 ---
-
 LEAWOOD, Kan.--(BUSINESS WIRE)--AMC Entertainment Holdings, Inc. (NYSE: AMC) doing business as AMC Theatres® ( "AMC" or "the Company") announced today that the Company's Board of Directors has named Adam M. Aron as Chief Executive Officer and President and a member of the AMC Board of Directors, effective January 4, 2016. Aron, 61, joins AMC with more than 20 years of experience as a CEO, and more than 35 years of consumer-engagement experience at some of the nation's leading hospitality and leisure companies. He replaces Craig Ramsey, who has served as Interim CEO since August 2015, following the resignation of Gerry Lopez. Ramsey will remain AMC's Chief Financial Officer, and will report directly to Aron.
 
-
-
-    "The Board acknowledges the outstanding job Craig has done in keeping AMC moving forward during this search"
-
-
+>"The Board acknowledges the outstanding job Craig has done in keeping AMC moving forward during this search"
 
 His career has included leadership of some of the world's most notable brands including airlines, hotels, ski resorts, cruise lines and professional sports franchises:
 
@@ -31,13 +26,8 @@ His career has included leadership of some of the world's most notable brands in
 - Senior Vice President of Hyatt Hotels Corporation, 1987-1990
 
 
-
 He also served as a Senior Operating Partner of Apollo Management L.P. from 2006-2015. 
 
-
-
 Apollo previously was part of an investor group which owned the then privately-held AMC Theatres. From 2006 onwards, Aron also led World Leisure Partners, Inc., a personal consultancy he founded.
-
-
 
 Aron has an MBA with distinction from the Harvard Business School and a bachelor's degree cum laude from Harvard College.

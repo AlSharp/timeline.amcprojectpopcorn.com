@@ -28,17 +28,13 @@ export const generateMetadata = async ({ params }) => {
   const event = getEventContent(slug, lang);
 
   return {
-    title: {
-      default: 'AMC Project Popcorn',
-      template: `${event.frontmatter.title} | AMC Project Popcorn`,
-      title: event.frontmatter.title
-    },
+    title: `${event.frontmatter.title} | AMC APE Post`,
     description: event.frontmatter.description,
     openGraph: {
       title: event.frontmatter.title,
       description: event.frontmatter.description,
       url: `/events/${slug}`,
-      siteName: 'AMC Project Popcorn',
+      siteName: 'AMC APE Post',
       images: getOgImageFromEvent(event),
       locale: lang,
       type: 'website'

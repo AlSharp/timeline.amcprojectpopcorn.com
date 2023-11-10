@@ -1,6 +1,6 @@
 // import Navbar from './Navbar';
 // import Footer from './Footer';
-// import Script from 'next/script';
+import Script from 'next/script';
 import Image from 'next/legacy/image'
 
 export default function Layout({
@@ -8,8 +8,8 @@ export default function Layout({
 }) {
   return (
     <>
-      {/* <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-TGZE905KJF"
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-HR38LKTEGG"
         strategy="afterInteractive"
       />
       <Script id="google-analytics" strategy="afterInteractive">
@@ -18,9 +18,9 @@ export default function Layout({
           function gtag(){window.dataLayer.push(arguments);}
           gtag('js', new Date());
 
-          gtag('config', 'G-TGZE905KJF');
+          gtag('config', 'G-HR38LKTEGG');
         `}
-      </Script> */}
+      </Script>
 
       {/* <Navbar /> */}
 
