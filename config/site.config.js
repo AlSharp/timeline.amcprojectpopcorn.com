@@ -11,5 +11,5 @@ export default {
   "logoCropped" : "/images/appt_logo_1.png",
   "logoText" : "AMC APE Post",
   "favicon" : "/images/appt_logo_2.jpg",
-  "copyright" : "© 2023 AMC Project Popcorn Discovery"
+  "copyright" : "© 2023 AMC Shareholders Community"
 }

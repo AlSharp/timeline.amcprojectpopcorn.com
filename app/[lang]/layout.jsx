@@ -1,7 +1,9 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
-import classNames from 'classnames'
+import clsx from 'clsx'
 import Script from 'next/script';
+import Navbar from '@/components/Navbar';
+import Footer from '@/components/Footer';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -39,7 +41,7 @@ export const generateMetadata = async ({ params }) => {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={classNames(inter.className)}>
+      <body className={clsx(inter.className)}>
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-HR38LKTEGG"
           strategy="afterInteractive"
@@ -54,6 +56,7 @@ export default function RootLayout({ children }) {
           `}
         </Script>
         {children}
+        <Footer />
       </body>
     </html>
   )

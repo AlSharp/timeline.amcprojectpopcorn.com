@@ -34,7 +34,7 @@ export default function Event({event, ...params}) {
           
           {/* Article Information */}
           <div className="pt-10 mx-auto text-lg max-w-prose border-gray-300/70 sm:pt-16">
-            <Link href="/" className="relative text-sm font-medium tracking-widest text-red-700 uppercase duration-300 ease-in-out transition-color hover:text-red-600">
+            <Link href="/" className="relative text-sm font-semibold tracking-widest text-red-700 uppercase duration-300 ease-in-out transition-color hover:text-red-500">
               Back to timeline
             </Link>
           </div>
