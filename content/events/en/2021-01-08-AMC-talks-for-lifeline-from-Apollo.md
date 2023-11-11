@@ -6,6 +6,7 @@ mediaType: "image"
 date: "12/11/2020"
 shortText: "AMC Entertainment is being circled by a trio of investment firms including Apollo Global Management as the movie-theater chain scrambles to stay afloat amid the pandemic. They urge the company to file for Chapter 11 bankruptcy. Apollo — whose embattled chief executive Leon Black is being probed over his ties to dead pedophile Jeffrey Epstein — is leading the campaign to take control of AMC, insiders said."
 category: ""
+lastModified: "11/10/2023"
 ---
 Apollo, which along with Canyon Capital Advisors and Davidson Kempner Capital Management are holders of AMC’s first-lien debt, are urging the company to file for Chapter 11 bankruptcy and have offered $1 billion in debtor-in-possession financing, according to sources close to the situation.
 

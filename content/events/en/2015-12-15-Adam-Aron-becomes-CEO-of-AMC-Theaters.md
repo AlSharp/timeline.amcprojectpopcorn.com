@@ -6,6 +6,7 @@ mediaType: "image"
 date: "12/15/2015"
 shortText: Aron, 61, a Senior Operating Partner of Apollo Management L.P. from 2006-2015, joins AMC as a CEO, following the resignation of Gerry Lopez. Ramsey will remain AMC's Chief Financial Officer, and will report directly to Aron. Apollo previously was part of an investor group which owned the then privately-held AMC Theatres. From 2006 onwards, Aron also led World Leisure Partners, Inc., a personal consultancy he founded.
 category: ""
+lastModified: "11/10/2023"
 ---
 LEAWOOD, Kan.--(BUSINESS WIRE)--AMC Entertainment Holdings, Inc. (NYSE: AMC) doing business as AMC Theatres® ( "AMC" or "the Company") announced today that the Company's Board of Directors has named Adam M. Aron as Chief Executive Officer and President and a member of the AMC Board of Directors, effective January 4, 2016. Aron, 61, joins AMC with more than 20 years of experience as a CEO, and more than 35 years of consumer-engagement experience at some of the nation's leading hospitality and leisure companies. He replaces Craig Ramsey, who has served as Interim CEO since August 2015, following the resignation of Gerry Lopez. Ramsey will remain AMC's Chief Financial Officer, and will report directly to Aron.
 

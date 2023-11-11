@@ -6,6 +6,7 @@ mediaType: "image"
 date: "03/04/2016"
 shortText: AMC Theatres said Wednesday that it has completed its acquisition of Carmike Cinemas for approximately $1.1 billion, including the assumption of Carmike debt, making it the largest U.S. movie theater chain. AMC Theatres, majority-owned by the Chinese conglomerate Dalian Wanda Group, is now the largest exhibitor in the U.S., Europe and the world, operating 900 venues with more than 10,000 screens globally. That includes 661 theaters with more than 8,200 screens in the U.S. and 244 theaters with 2,200 screens in Europe.
 category: ""
+lastModified: "11/10/2023"
 ---
 
 AMC Theatres said Wednesday that it has completed its acquisition of Carmike Cinemas for approximately $1.1 billion, including the assumption of Carmike debt, making it the largest U.S. movie theater chain.

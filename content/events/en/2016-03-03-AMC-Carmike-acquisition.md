@@ -6,6 +6,7 @@ mediaType: "image"
 date: "03/03/2016"
 shortText: "Both companies have entered into a definitive merger agreement pursuant to which AMC will acquire all of the outstanding shares of Carmike for $30.00 per share in cash. The transaction is valued at approximately $1.1 billion, including the assumption of Carmike net indebtedness. The purchase price per screen is approximately $376,000, and the per share purchase price represents an approximate 19.47% premium to Carmike’s March 3, 2016 closing stock price. The transaction, which has fully committed financing in place, will be funded through a combination of existing liquidity, including cash on hand, and incremental debt. The debt financing commitment is being provided by Citigroup Global Markets Inc. (“Citi”)."
 category: ""
+lastModified: "11/10/2023"
 ---
 LEAWOOD, Kan. & COLUMBUS, Ga.--(BUSINESS WIRE)--AMC Theatres (AMC Entertainment Holdings, Inc.) (NYSE: AMC) (“AMC”) and Carmike Cinemas, Inc. (NASDAQ: CKEC) (“Carmike”) announced today they have entered into a definitive merger agreement pursuant to which AMC will acquire all of the outstanding shares of Carmike for $30.00 per share in cash. The transaction is valued at approximately $1.1 billion, including the assumption of Carmike net indebtedness. The purchase price per screen is approximately $376,000, and the per share purchase price represents an approximate 19.47% premium to Carmike’s March 3, 2016 closing stock price.
 

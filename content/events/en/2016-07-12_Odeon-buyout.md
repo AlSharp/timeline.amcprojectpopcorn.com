@@ -6,6 +6,7 @@ mediaType: "image"
 date: "07/12/2016"
 shortText: "“We now have an international footprint, and will introduce throughout Europe our proven guest amenities like plush powered recliners, enhanced food and beverages and Dolby at AMC and Imax at AMC premium experiences,” CEO Adam Aron says.The exhibition chain says the transaction won’t affect its quarterly dividend, which is important to investors as the exhibition industry matures."
 category: ""
+lastModified: "11/10/2023"
 ---
 
 LEAWOOD, Kan. & LONDON--(BUSINESS WIRE)--AMC Theatres (AMC Entertainment Holdings, Inc.) (NYSE:AMC) (“AMC”) announced today that it has entered into a definitive agreement to acquire the largest theatre exhibitor in Europe, London-based Odeon & UCI Cinemas Group (“Odeon & UCI”) from private equity firm Terra Firma in a transaction valued at approximately £921 million1 comprised of £500 million for the equity, 75% in cash and 25% in stock consideration, subject to lock-ups, and the assumption of £407 million of net debt as of March 31, 2016 to be simultaneously refinanced at closing. Assuming the transaction closes December 31, 2016 and a GBP/USD exchange rate of 1.30 the transaction is valued at approximately $1,199 million under UK GAAP.

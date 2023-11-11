@@ -6,6 +6,7 @@ mediaType: "image"
 date: "01/23/2017"
 shortText: "Nordic was controlled by private equity (PE) firm Bridgepoint, which acquired the majority stake for SEK 4.7 billion in 2015 from PE firm Ratos and Bonnier media group. The latter, who was the original owner of SF Bio and later NCG, retained a minority stake (30%) that it is now selling. The sale of NCG had been rumoured for some time. While the acquisition of Nordic Cinema Group makes sense as a numbers play geographically, it is far less so financially. What stands out immediately is that Wanda/AMC paid more than USD $2 million on a per-screen basis for Nordic Cinema Group’s cinemas. This is almost four times the equivalent for Odeon & UCI and five time what it finally paid (after increasing its original offer) for Carmike."
 category: ""
+lastModified: "11/10/2023"
 ---
 LEAWOOD, Kan. & STOCKHOLM--(BUSINESS WIRE)-- AMC Theatres (AMC Entertainment Holdings, Inc.) (NYSE:AMC) (“AMC”) announced today that it has entered into a definitive agreement to acquire the largest theatre exhibitor in seven countries in the affluent northern region of Europe, Stockholm-based Nordic Cinema Group Holding AB (“Nordic”). 
 

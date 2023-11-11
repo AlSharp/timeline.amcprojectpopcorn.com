@@ -7,6 +7,7 @@ mediaType: "video"
 date: "11/09/2023"
 shortText: "“AMC stock is tanking. And once again, it has to do with dilution the retail investors shares and selling new shares into the hands of hedge funds carrying short positions. On Thursday, the movie theater chain filed for a stock offering of up to $350 million. Based on the current price, that's about 35-45 million shares, or 350-450 million shares before the conversion and reverse stock split."
 category: ""
+lastModified: "11/10/2023"
 ---
 AMC stock is tanking. And once again, it has to do with dilution the retail investors shares and selling new shares into the hands of hedge funds carrying short positions.
 
