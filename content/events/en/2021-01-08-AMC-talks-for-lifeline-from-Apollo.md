@@ -1,12 +1,14 @@
 ---
 title: "AMC in talks with Apollo and creditors to leverage Odeon cinema chain for lifeline"
 description: "AMC is in discussions for a potential financing package backed by its UK-based Odeon subsidiary."
-media: "https://images.wsj.net/im-742696?width=700&size=1.4988290398126465&pixel_ratio=2"
+media: "https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3Ab096eb30-7e2e-4358-a52d-8f4c1d988741?source=next-article&fit=scale-down&quality=highest&width=700&dpr=2"
 mediaType: "image"
 date: "12/11/2020"
 shortText: "AMC Entertainment is being circled by a trio of investment firms including Apollo Global Management as the movie-theater chain scrambles to stay afloat amid the pandemic. They urge the company to file for Chapter 11 bankruptcy. Apollo — whose embattled chief executive Leon Black is being probed over his ties to dead pedophile Jeffrey Epstein — is leading the campaign to take control of AMC, insiders said."
 category: ""
 lastModified: "11/10/2023"
+author: "@Alexand89683221"
+authorURL: https://twitter.com/Alexand89683221
 ---
 Apollo, which along with Canyon Capital Advisors and Davidson Kempner Capital Management are holders of AMC’s first-lien debt, are urging the company to file for Chapter 11 bankruptcy and have offered $1 billion in debtor-in-possession financing, according to sources close to the situation.
 
