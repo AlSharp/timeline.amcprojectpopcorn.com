@@ -6,7 +6,7 @@ mediaType: "image"
 date: "12/11/2020"
 shortText: "AMC Entertainment is being circled by a trio of investment firms including Apollo Global Management as the movie-theater chain scrambles to stay afloat amid the pandemic. They urge the company to file for Chapter 11 bankruptcy. Apollo — whose embattled chief executive Leon Black is being probed over his ties to dead pedophile Jeffrey Epstein — is leading the campaign to take control of AMC, insiders said."
 category: ""
-lastModified: "11/10/2023"
+lastModified: "11/30/2023"
 author: "@Alexand89683221"
 authorURL: https://twitter.com/Alexand89683221
 ---
@@ -32,6 +32,6 @@ Accordingly, the company said it’s looking at other alternatives to Apollo’s
 
 It’s not clear what investor appetites will be for more AMC shares, insiders said — especially after Warner Bros. announced this week that its entire movie slate for 2021 will be released simultaneously in theaters and on its HBO Max home-streaming service. The risk that other studios including Disney could adopt similar strategies is uncertain, sources said.
 
-original Link:
+Original Link:
 
 https://nypost.com/2020/12/11/apollo-circling-amc-as-chain-scrambles-to-stay-afloat-sources/

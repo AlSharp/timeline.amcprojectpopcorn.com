@@ -6,7 +6,7 @@ mediaType: "image"
 date: "12/15/2015"
 shortText: "Aron, 61, a Senior Operating Partner of Apollo Management L.P. from 2006-2015, joins AMC as a CEO, following the resignation of Gerry Lopez. Ramsey will remain AMC's Chief Financial Officer, and will report directly to Aron. Apollo previously was part of an investor group which owned the then privately-held AMC Theatres. From 2006 onwards, Aron also led World Leisure Partners, Inc., a personal consultancy he founded."
 category: ""
-lastModified: "11/29/2023"
+lastModified: "11/30/2023"
 author: "@Alexand89683221"
 authorURL: https://twitter.com/Alexand89683221
 ---
@@ -15,7 +15,7 @@ LEAWOOD, Kan.--(BUSINESS WIRE)--
 
 AMC Entertainment Holdings, Inc. (NYSE: AMC) doing business as AMC Theatres® ( "AMC" or "the Company") announced today that the Company's Board of Directors has named Adam M. Aron as Chief Executive Officer and President and a member of the AMC Board of Directors, effective January 4, 2016. Aron, 61, joins AMC with more than 20 years of experience as a CEO, and more than 35 years of consumer-engagement experience at some of the nation's leading hospitality and leisure companies. He replaces Craig Ramsey, who has served as Interim CEO since August 2015, following the resignation of Gerry Lopez. Ramsey will remain AMC's Chief Financial Officer, and will report directly to Aron.
 
-**"The Board acknowledges the outstanding job Craig has done in keeping AMC moving forward during this search"**
+>The Board acknowledges the outstanding job Craig has done in keeping AMC moving forward during this search.
 
 His career has included leadership of some of the world's most notable brands including airlines, hotels, ski resorts, cruise lines and professional sports franchises:
 - Chief Executive Officer of Starwood Hotels and Resorts Worldwide, 2015
@@ -33,8 +33,11 @@ In addition to the Starwood Board, Aron currently serves on the Boards of Norweg
 
 Aron has an MBA with distinction from the Harvard Business School and a bachelor's degree cum laude from Harvard College.
 
-**“This is an incredible opportunity to lead one of the most recognized and iconic brands in the entertainment industry,** said Aron.
-**“AMC Theatres is at the forefront of developing customer-focused innovations at theatres across the country, such as plush recliner chairs and new sight and sound technology. Even so, I believe we have the capacity to raise the bar even higher. In addition to further enhancing the movie-going experience at our theaters, of special interest is enriching AMC Stubs as a community for those who are fascinated by the allure of motion pictures. Having had the opportunity to lead teams elsewhere that have produced superior financial and customer results in other entertainment and hospitality industries, I am so excited now to lead the best team in the U.S. theatrical exhibition business. The opportunity to partner with other entities in the Wanda Group is also particularly intriguing. As a life-long movie fan myself, I am looking forward to winning with this team and amazing our guests.”**
+### Adam Aron said:
+
+>This is an incredible opportunity to lead one of the most recognized and iconic brands in the entertainment industry.
+
+>AMC Theatres is at the forefront of developing customer-focused innovations at theatres across the country, such as plush recliner chairs and new sight and sound technology. Even so, I believe we have the capacity to raise the bar even higher. In addition to further enhancing the movie-going experience at our theaters, of special interest is enriching AMC Stubs as a community for those who are fascinated by the allure of motion pictures. Having had the opportunity to lead teams elsewhere that have produced superior financial and customer results in other entertainment and hospitality industries, I am so excited now to lead the best team in the U.S. theatrical exhibition business. The opportunity to partner with other entities in the Wanda Group is also particularly intriguing. As a life-long movie fan myself, I am looking forward to winning with this team and amazing our guests.
 
 Original Links:
 
