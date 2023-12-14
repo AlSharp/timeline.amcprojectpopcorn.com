@@ -1,6 +1,6 @@
 ---
-title: "AMC Theatres acquired Nordic Cinema Group for $929,000,000"
-description: "AMC Entertainment Holdings, Inc. Signs Definitive Agreement to Acquire Nordic Cinema Group, the Largest Theatre Operator in Scandinavia, and the Nordic and Baltic Regions of Europe. Bridgepoint and Bonnier (private equity) have agreed to divest Nordic Cinema Group (NCG) to AMC Entertainment at a value of some SEK 8.250 billion."
+title: "AMC Theatres Acquired Nordic Cinema Group For $929,000,000 (Million)"
+description: "AMC Entertainment Holdings, Inc. Signs Definitive Agreement to Acquire Nordic Cinema Group, the Largest Theatre Operator in Scandinavia, and the Nordic and Baltic Regions of Europe. Bridgepoint and Bonnier (private equity) have agreed to divest Nordic Cinema Group (NCG) to AMC Entertainment at a value of some SEK 8.250 billion. Citi served as exclusive financial advisor to AMC."
 media: "https://cdn.celluloidjunkie.com/wp-content/uploads/2017/01/19193359/Screen-Shot-2017-01-23-at-21.09.49.png"
 mediaType: "image"
 date: "01/23/2017"
@@ -44,7 +44,6 @@ AMC claims that it can achieve USD $5 million in annual cost synergies for NCG, 
 >For the third time in the past 12 months, we believe we have discovered a substantial acquisition that gives AMC yet another opportunity to further expand and diversify our geographic reach and more firmly establish AMC as the undisputed leader in movie exhibition worldwide, AMC’s President and CEO Adam Aron is quoted as saying. Substantial, yes, in terms of size, geography and, above all, price. But the emphasis is not on price, whether too much or too little, but on the ambition to be **“the undisputed leader in movie exhibition worldwide”.** 
     
 Aron goes on to say:
-
 >It has been our observation that Nordic is extremely well-run with a modern up-to-date theater circuit that in our opinion offers tremendous value potential for AMC over the foreseeable future. We are also excited by the growth potential of Nordic as it moves forward with 10 theaters already in development or re-development. We have been impressed with Nordic’s talented leadership team, and further believe that their added expertise will be invaluable to us in helping to drive AMC’s progress across Europe. AMC will bring additional efficiencies of scale and innovative strategic initiatives to the Nordic brands.
 
 All of this is equally true. But it is should be noted that Sweden and the Nordic countries have some of the highest cinema ticket prices in the world already. The proposed increase in sales tax on cinema tickets in Sweden could hurt attendance in the future. SF Bio is also playing catch-up in the event cinema space with community cinema operator Folkets Hus. It is unlikely that Nordic countries will embrace a switch to luxury recliner seats in the same way as AMC has done in the US, even less so than Odeon & UCI screens. So why would Wanda and AMC be prepared to pay such a premium for a bunch of cinemas chains in the cold and dark north of Europe? In one word: geography.
@@ -71,7 +70,6 @@ AMC expects to maintain its current quarterly dividend.
 Pinsent Masons LLP; Husch Blackwell LLP; Weil, Gotshal & Manges LLP and Lindahl served as AMC’s lead legal advisors.
 
 Original Link:
-
 https://celluloidjunkie.com/2017/01/23/amc-buys-nordic-cinema-group-929-million-need-know/
 
 https://www.bridgepoint.eu/private-equity/portfolio/middle-market/consumer/nordic-cinema-group

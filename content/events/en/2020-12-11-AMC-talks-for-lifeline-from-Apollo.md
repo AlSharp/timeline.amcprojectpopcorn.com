@@ -12,25 +12,23 @@ authorURL: https://twitter.com/Alexand89683221
 ---
 Apollo, which along with Canyon Capital Advisors and Davidson Kempner Capital Management are holders of AMC’s first-lien debt, are urging the company to file for Chapter 11 bankruptcy and have offered $1 billion in debtor-in-possession financing, according to sources close to the situation.
 
-The deal would keep its theater doors open in the coming year — and land AMC in the hands of of the investment firms, the sources said. Apollo — whose embattled chief executive Leon Black is being probed over his ties to dead pedophile Jeffrey Epstein — is leading the campaign to take control of AMC, insiders said.
+**The deal would keep its theater doors open in the coming year — and land AMC in the hands of of the investment firms,** the sources said. Apollo — whose embattled chief executive Leon Black is being probed over his ties to dead pedophile Jeffrey Epstein — is leading the campaign to take control of AMC, insiders said.
 
-AMC’s embattled chief executive Adam Aron is resisting Apollo’s overture and looking to buy time. On Friday, the company instead announced it has reached a deal to borrow $100 million in senior loans from Mudrick Capital Management at a 15-percent interest rate.
+AMC’s embattled chief executive Adam Aron is resisting Apollo’s overture and looking to buy time. On Friday, **the company instead announced it has reached a deal to borrow $100 million in senior loans from Mudrick Capital Management at a 15-percent interest rate.**
 
->“Adam Aron is trying to figure out if the vaccine is on its way and will there be enough of a movie business to get past this point,” 
+**“Adam Aron is trying to figure out if the vaccine is on its way and will there be enough of a movie business to get past this point,”** according to a source close to the talks.
 
-according to a source close to the talks.
+## In a written statement, AMC on Friday confirmed that 
 
-In a written statement, AMC on Friday confirmed that 
-
->“certain first-lien creditors and other parties have indicated a willingness to provide financing in a bankruptcy scenario, including debtor-in-possession financing,” 
+>certain first-lien creditors and other parties have indicated a willingness to provide financing in a bankruptcy scenario, including debtor-in-possession financing,
 
 without naming Apollo or the other firms.
 
-The theater chain also admitted that the $100 million loan from Mudrick won’t keep the lights on past January, and that it will need at least another $750 million in cash to stay afloat through next year.
+The theater chain also admitted that the $100 million loan from Mudrick won’t keep the lights on past January, and that it **will need at least another $750 million in cash to stay afloat through next year.**
 
-Accordingly, the company said it’s looking at other alternatives to Apollo’s proposal, including converting some second-lien debt to equity and issuing new stock to raise cash.
+## Accordingly, the company said it’s looking at other alternatives to Apollo’s proposal, including converting some second-lien debt to equity and issuing new stock to raise cash.
 
-It’s not clear what investor appetites will be for more AMC shares, insiders said — especially after Warner Bros. announced this week that its entire movie slate for 2021 will be released simultaneously in theaters and on its HBO Max home-streaming service. The risk that other studios including Disney could adopt similar strategies is uncertain, sources said.
+It’s not clear what investor appetites will be for more AMC shares, insiders said — especially after Warner Bros. announced this week that its entire movie slate for 2021 will be released simultaneously in theaters and on its HBO Max home-streaming service. **The risk that other studios including Disney could adopt similar strategies is uncertain,** sources said.
 
 Original Link:
 

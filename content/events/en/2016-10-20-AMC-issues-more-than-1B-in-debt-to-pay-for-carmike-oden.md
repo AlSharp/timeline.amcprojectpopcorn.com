@@ -25,15 +25,15 @@ AMC’s debt offering includes about $900 million of a a combination of dollar-d
 
 ## Key Risks:
 
-### Financial Overcommitment: 
+### Financial Overcommitment:
 
 The substantial debt issuance raises concerns about the financial health of AMC. The company is taking on significant debt to fund these acquisitions, which could strain its financial position in the future.
 
-### Market Conditions: 
+### Market Conditions:
 
 The cinema industry is sensitive to economic conditions and consumer behavior. The success of these acquisitions depends on sustained interest in theatrical experiences, which might be influenced by factors such as streaming competition and global economic conditions.
 
-### Integration Challenges: 
+### Integration Challenges:
 
 Managing a vast network of theaters worldwide involves significant operational challenges. Integrating Odeon & UCI and Carmike smoothly could prove challenging, potentially affecting the performance of the combined entity.
 

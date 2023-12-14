@@ -1,5 +1,5 @@
 ---
-title: "Adam Aron becomes CEO of AMC Theaters"
+title: "Adam Aron (Apollo Management L.P.) Becomes CEO Of AMC Theaters"
 description: "Aron, 61, served as a Senior Operating Partner of Apollo Management L.P. from 2006-2015, joins AMC as a CEO"
 media: "https://media.gettyimages.com/id/129548538/photo/philadelphia-76ers-announce-new-team-owner-joshua-harris.jpg?s=612x612&w=gi&k=20&c=K3zgEF7FS6e4jsCgQpKyL20sijP3_-ynnkqbIDQdBjY="
 mediaType: "image"
@@ -41,4 +41,4 @@ Aron has an MBA with distinction from the Harvard Business School and a bachelor
 
 Original Links:
 
-https://www.businesswire.com/news/home/20151215005330/en/AMC-Entertainment-Holdings-Inc.-Names-Adam-Aron-as-CEO-and-President#:~:text=%2D%2D(BUSINESS%20WIRE)%2D%2DAMC,%2C%20effective%20January%204%2C%202016.
+https://www.businesswire.com/news/home/20151215005330/en/AMC-Entertainment-Holdings-Inc.-Names-Adam-Aron-as-CEO-and-President#:~:text=%2D%2D(BUSINESS%20WIRE)%2D%2DAMC,%2C%20effective%20January%204%2C%202016

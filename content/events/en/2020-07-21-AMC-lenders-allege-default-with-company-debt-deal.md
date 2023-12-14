@@ -40,6 +40,7 @@ The opposing lenders are working with the company and subordinated bondholders o
 **The lenders also asked Citigroup Inc. to resign as administrative agent on AMC’s loan,** according to a separate letter seen by Bloomberg. Citi remains on the loan but intends to step down when a new agent is appointed, one of the people said.
 
 ## A representative for Citi declined to comment.
+
 Credit Suisse Asset Management and Davidson Kempner Capital Management are also in the opposing lender group, which says the planned transaction **violates AMC’s fiduciary duty, dilutes the value of their holdings and deprives the theatre chain of additional liquidity,** the people said.
 
 The company’s planned deal would hand AMC US$300 million in fresh funds and cut its debt load by at least US$460 million, according to a statement last week.
@@ -47,15 +48,12 @@ The company’s planned deal would hand AMC US$300 million in fresh funds and cu
 ## Key Risks:
 
 Default Risk: 
-
 The lenders' notice of default raises concerns about AMC's compliance with its credit agreement, posing a risk of default. This could lead to broader financial repercussions, affecting the company's ability to secure financing and manage its debt.
 
 Legal and Fiduciary Risks:
-
 The opposition group, including Silver Lake, alleges that the proposed transaction violates AMC's fiduciary duty, dilutes the value of their holdings, and deprives the company of additional liquidity. These legal and fiduciary risks could result in legal challenges and impact the company's financial and operational standing.
 
 Liquidity Concerns:
-
 The lenders' opposition to the planned transaction, which aims to reduce debt and increase liquidity, introduces uncertainty about AMC's ability to address its liquidity challenges. This could affect the company's financial stability and its ability to weather the ongoing impact of the COVID-19 pandemic on the theater industry.
 
 Original Link:

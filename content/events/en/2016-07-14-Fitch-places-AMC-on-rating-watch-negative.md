@@ -25,7 +25,7 @@ Fitch believes the acquisition is consistent with the company's strategy to add 
 
 The acquisition will be financed with **incremental debt of $1.2 billion and equity issuance** and is expected to close during the fourth quarter of 2016 (4Q16) subject to receipt of antitrust approval by the European Commission. **Fitch calculates unadjusted leverage pro forma for the acquisition of Odeon & UCI at 5.0x and unadjusted leverage pro forma for the acquisitions of Odeon & UCI and Carmike at 5.5x as of March 31, 2016.** Fitch expects unadjusted leverage to be maintained at or below 4.5x in the 12-18 months following the acquisition to maintain the 'B+' rating. AMC's target net leverage of 4.0x signals a more aggressive financial policy that may be outside Fitch's threshold for a 'B+' rating.
 
-## KEY RATING DRIVERS  
+## KEY RATING DRIVERS 
 
 AMC has demonstrated traction in key strategic initiatives, as can be seen in its improving admission revenue per attendee, concession revenue per attendee, and concession gross profit per attendee. Fitch calculates March 31, 2016 latest 12 months (LTM) EBITDA margins of 16.9% (excludes National Cinemedia distribution), an improvement from 13.6% at Sept. 27, 2012. Fitch recognizes that AMC's continued expansion into premium food offerings will pressure high concession margins; however, growth in the top line should grow absolute gross profit dollars in this segment.
 
@@ -44,6 +44,7 @@ In addition, AMC and its peers rely on the quality, quantity, and timing of movi
 ## KEY ASSUMPTIONS
 
 Fitch's key assumptions within the rating case for AMC Entertainment include:
+
 - Flat- to low-single-digit admissions revenue growth; low-single-digit growth in average ticket price;
 - EBITDA margin expansion;
 - Capital expenditures are expected to remain elevated in the near term as AMC continues to invest in recliner re-seats and F&B offerings. Fitch expects capex of $255 million-$270 million (net of landlord contributions) during 2016;
@@ -52,9 +53,11 @@ Fitch's key assumptions within the rating case for AMC Entertainment include:
 ## RATING SENSITIVITIES
 
 Positive Trigger: 
+
 Fitch weighs the prospective challenges facing AMC and its industry peers heavily when considering the long-term credit rating. Significant improvements in the operating environment (sustainable increases in attendance from continued success of operating initiatives) driving FCF/adjusted debt above 2% and adjusted leverage below 4.5x on a sustainable basis could have a positive effect on the rating. In strong box office years, metrics may be strong in order to provide a cushion for weaker box office years.
 
 Negative Trigger: 
+
 Negative rating actions are more likely to coincide with the company's inability to reduce adjusted leverage below 6.0x (4.5x on an unadjusted basis) in the 12-18 months following the acquisition of Odeon & UCI, or the adoption of a more aggressive financial policy, and/or rent-adjusted interest coverage declines below 1.5x-1.75x.
 
 In addition, meaningful, operational deterioration that may include sustained declines in attendance and/or per guest concession spending or other change in capital allocation that delays the company's planned leverage reduction may also pressure the ratings.
