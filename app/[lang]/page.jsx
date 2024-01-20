@@ -5,6 +5,7 @@ import Timeline from './timeline';
 import { formatDate } from "@/utils/date";
 import { parse, compareAsc } from "date-fns";
 import Navbar from '@/components/Navbar';
+import Footer from '@/components/Footer';
 
 
 export default async function Home({ params: { lang } }) {
@@ -55,6 +56,7 @@ export default async function Home({ params: { lang } }) {
           </Link>
         </div>
       </main>
+      <Footer />
     </div>
     
   )

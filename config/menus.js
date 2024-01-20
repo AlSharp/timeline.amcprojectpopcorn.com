@@ -10,7 +10,7 @@ export default {
     },
     {
       "name": "Opinions",
-      "link": "/categories/opinions"
+      "link": "/opinions"
     },
   ],
 
@@ -25,7 +25,7 @@ export default {
     },
     {
       "name": "Opinions",
-      "link": "/categories/opinions"
+      "link": "/opinions"
     }
   ]
 }
