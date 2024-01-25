@@ -6,7 +6,7 @@ export default function SingleColFeed({opinions}) {
   return (   
     <>   
       {opinions.map((opinion, index) => (
-        <article className="md:gap-8 md:grid md:grid-cols-4" key={opinion.url}>
+        <article className="md:gap-8 md:grid md:grid-cols-4 mb-8" key={opinion.url}>
           
           {/* Image */}
           <div className="md:col-span-1">
@@ -44,7 +44,7 @@ export default function SingleColFeed({opinions}) {
 
                 <div className="text-sm lg:text-[15px] flex items-center">
                   <span className="hidden text-gray-500 sm:inline-block">By&nbsp;</span>
-                  <Link href={`/people/${opinion.author.replace(/ /g, '-').toLowerCase()}`} className="relative font-medium text-gray-700 hover:underline mr-4">
+                  <Link href={`${opinion.authorURL.replace(/ /g, '-').toLowerCase()}`} className="relative font-medium text-gray-700 hover:underline mr-4">
                     {opinion.author}
                   </Link>
                   

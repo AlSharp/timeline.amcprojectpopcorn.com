@@ -141,7 +141,7 @@ Here Part 1 of my series ends. You can reach the other parts here
 
 Part 2:
 
-[#AMC - HOW TO DEMOLISH SHAREHOLDERS - A FULL ANALYSIS OF BUSINESS PERFORMANCE - PART 2 : amczone (reddit.com)](https://www.reddit.com/r/amczone/comments/19aqmni/amc_how_to_demolish_shareholders_a_full_analysis/)
+[#AMC - HOW TO DEMOLISH SHAREHOLDERS - A FULL ANALYSIS OF BUSINESS PERFORMANCE - PART 2 : amczone (reddit.com)](https://amcapepost.com/en/opinions/How-to-demolish-shareholders-full-analysis-of-business-performance-part-2)
 
 Part 3:
 

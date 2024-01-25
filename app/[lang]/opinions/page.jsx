@@ -23,7 +23,8 @@ export default async function Opinions({ params: { lang } }) {
         media: opinion.frontmatter.media,
         shortText: opinion.frontmatter.shortText,
         url: `/${opinion.slug}`,
-        author: opinion.frontmatter.author
+        author: opinion.frontmatter.author,
+        authorURL: opinion.frontmatter.authorURL
       }
     })
 
